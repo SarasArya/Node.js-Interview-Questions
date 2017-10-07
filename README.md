@@ -12,5 +12,6 @@ Candidates or Interviewer can submit questions they were asked or would like the
 9. What is Event Loop and Event Emitter?
 10. Why to use Buffers instead of binary strings to handle binary data ?
 
+[Answers](https://blog.risingstack.com/node-js-interview-questions/)
 
 Ans: Node.js uses a library called [libuv](https://github.com/libuv/libuv), to bring an asynchronous event driven model to Javscript. It piggy backs on Chrome's Javascript Engine called V8 to enable the use of Javascript language.
