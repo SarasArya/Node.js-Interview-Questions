@@ -26,5 +26,5 @@ __Ans:__ First, a classic use of callback methods. Second, using Promises. Final
 10. What is the Use of underscore in Node.js?
 11. What is Event Loop and Event Emitter?
 12. Why to use Buffers instead of binary strings to handle binary data ?
-
+13. What is garbage collection and why is it needed?
 [Answers](https://blog.risingstack.com/node-js-interview-questions/)
